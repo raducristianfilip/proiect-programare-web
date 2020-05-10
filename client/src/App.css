@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.container{
+	margin-top: 100px;
+	margin-right: 50px;
+	background-color: lightgreen;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	height: 600px;
+	width: 1920px;
+  
+}
+
+table {
+  width: 100%;
+  
+}
+
+h1 {
+    text-align: center;
+	
+}
+
+.frm {
+	text-align: center;
+}
+
+.buton{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.resizable{
+	resize:both;
+}
+
+.content{
+	font-size: 150%;
+	display: inline-block;
+	text-align: center;
+}
+
+tr:nth-child(odd) {background-color: white;}
+tr:nth-child(even) {background-color: grey;}
